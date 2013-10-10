@@ -1,0 +1,28 @@
+# Hebel
+
+## Self Hosted Placeholder Application
+Hebel is open source software to generate quick and simple image placeholder.
+
+Like these services:
+
+- [placehold.it](http://placehold.it)
+- [placehold.jp](http://placehold.jp)
+
+
+## How does it work?
+
+Just put your image size after our URL and you'll get a placeholder.
+
+Like this:
+
+```
+http://hebel.yourdomain.com/100x100
+```
+
+You can also use it in your code, like this:
+
+```html
+<img src="//hebel.yourdomain.com/300x300">
+```
+
+Have fun!
